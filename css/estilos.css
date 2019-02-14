@@ -54,17 +54,19 @@ section .imgBx img{
 
 section .storyBx{
 	padding: 60px;
+	background: snow;
 }
 
 section .storyBx h2{
 	margin: 0 0 20px;
 	padding: 0;
-	font-size: 60px;
+	font-size: 70px;
 }
 
 section .storyBx p{
-	margin: 0;
+	margin: 10px 0 20px 0;
 	padding: 0;
-	font-size: 18px;
+	line-height: 1.8;
+	font-size: 20px;
 	text-align: justify;
 }
